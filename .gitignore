@@ -11,3 +11,5 @@ pred.csv
 .ipynb_checkpoints/Baseline-checkpoint.ipynb
 *.iml
 *.xml
+*.idea
+*.gitignore
