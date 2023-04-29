@@ -1,0 +1,13 @@
+
+.gitattributes
+other jupyter/base.ipynb
+other jupyter/Baseline(3).ipynb
+other jupyter/Baseline.ipynb
+other jupyter/widedeep.ipynb
+pred.csv
+*.csv
+
+.ipynb_checkpoints/widedeep-checkpoint.ipynb
+.ipynb_checkpoints/Baseline-checkpoint.ipynb
+*.iml
+*.xml
